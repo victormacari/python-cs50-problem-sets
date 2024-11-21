@@ -15,7 +15,7 @@ def selection_sort(arr):
     return new_arr
 
 def main(): 
-    my_list = [5,3,6,2,10]    
+    my_list = [5, 3, 6, 2, 10]    
     print(selection_sort(my_list))
 
 if __name__ == "__main__":
