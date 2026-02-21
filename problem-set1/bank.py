@@ -1,6 +1,6 @@
 i = input("Greeting: ")
 
-words = i.split(" ");
+words = i.split(" ")
 
 if words[0] == "hello," or words[0] == "Hello," or i == "hello" or i == "Hello" :
     print("$0")
